@@ -13,15 +13,6 @@ Se implementan clases que representan seres vivos (como `Perro` y `Gato`) con at
 - **Constructores**: Inicialización de objetos con parámetros personalizados.
 - **Métodos propios**: Por ejemplo, `Ladrar()` en `Perro`.
 
----
-
-## 📂 Estructura del proyecto
-📦 Practica_POO_CS
-┣ 📜 Program.cs -> Punto de entrada del programa
-┣ 📜 Ser_Vivo.cs -> Clase base con atributos y métodos generales
-┣ 📜 Perro.cs -> Clase derivada que hereda de Ser_Vivo
-┣ 📜 Gato.cs -> Clase derivada que hereda de Ser_Vivo
-┗ 📜 README.md -> Documentación del proyecto
 
 ---
 
